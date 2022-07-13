@@ -47,3 +47,4 @@ def space_remover(string)
   # remove all the spaces in the string using gsub
   "#{string}".gsub(/\s+/,"") 
 end
+# Test
