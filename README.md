@@ -33,3 +33,4 @@ Which should print a few lines about not finding any examples. This is ok and me
 ## Usage
 
 Each directory contains a read me with instructions for the exercises within them.
+# Ruby-Intro-Exercises
